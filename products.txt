@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "futbol",
+    "price": 1800,
+    "src": "/resources/img/product-images/futbol.jpg"
+  },
+  {
+    "id": 2,
+    "name": "futbol",
+    "price": 3200,
+    "src": "/resources/img/product-images/futbol.jpg"
+  },
+  {
+    "id": 3,
+    "name": "rugby",
+    "price": 1800,
+    "src": "/resources/img/product-images/rugby.jpg"
+  },
+  {
+    "id": 4,
+    "name": "futbol",
+    "price": 850,
+    "src": "/resources/img/product-images/futbol.jpg"
+  },
+  {
+    "id": 5,
+    "name": "rugby",
+    "price": 780,
+    "src": "/resources/img/product-images/rugby.jpg"
+  },
+  {
+    "id": 6,
+    "name": "rugby",
+    "price": 780,
+    "src": "/resources/img/product-images/rugby.jpg"
+  },
+  {
+    "id": 7,
+    "name": "futbol",
+    "price": 1500,
+    "src": "/resources/img/product-images/futbol.jpg"
+  },
+  {
+    "id": 8,
+    "name": "rugby",
+    "price": 2500,
+    "src": "/resources/img/product-images/rugby.jpg"
+  },
+  {
+    "id": 9,
+    "name": "futbol",
+    "price": 1800,
+    "src": "/resources/img/product-images/futbol.jpg"
+  },
+  {
+    "id": 10,
+    "name": "rugby",
+    "price": 1800,
+    "src": "/resources/img/product-images/rugby.jpg"
+  },
+  {
+    "id": 11,
+    "name": "futbol",
+    "price": 1800,
+    "src": "/resources/img/product-images/futbol.jpg"
+  },
+  {
+    "id": 12,
+    "name": "futbol",
+    "price": 1800,
+    "src": "/resources/img/product-images/futbol.jpg"
+  },
+  {
+    "id": 13,
+    "name": "futbol",
+    "price": 1800,
+    "src": "/resources/img/product-images/futbol.jpg"
+  }
+]
